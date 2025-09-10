@@ -1,2 +1,2 @@
 # PC_Web_Interface
-A web interface for the PC.
+A web interface backend for the PC.

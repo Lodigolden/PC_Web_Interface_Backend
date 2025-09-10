@@ -1,0 +1,8 @@
+[project]
+name = "pc-web-interface-backend"
+version = "2025.0.0"
+dependencies = [
+    "black",
+    "flask",
+    "pytest"
+]
